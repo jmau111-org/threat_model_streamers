@@ -64,11 +64,12 @@ Again, it's not exhaustive, but the following techniques seem probable:
 
 * having a robust internet connection is not just good for your audience, maybe invest in a expensive plan that may include security options
 * use a VPN permanently
-* if possible, use a pseudo instead of your real name (but it will be hard to keep it private if you become very popular and show your face)
+* if possible, use a pseudo instead of your real name (but it will be hard to keep it private, especially if you become very popular)
 * use a new email address **dedicated** your stream
 * prioritize robust platforms for your "merch" (e.g., Shopify, Squarespace)
 * **secure payments** if you use alternative methods and even consider higher plans (professional/business offers) if you use Paypal
 * secure all your uploads: remove EXIF data from documents, especially images, and don't expose family and friends if possible
+* don't mention your physical location if possible (might be very hard if you are popular)
 * take some privacy measures, as other online activities could potentially harm your reputation
 * lie in your answers to the security questions (used to reset passwords)
 * don't feed the troll: protect your mental health (e.g., regular pauses, moderation, holidays), as the social pressure can hack you "from inside"
