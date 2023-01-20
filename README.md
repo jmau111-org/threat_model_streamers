@@ -12,6 +12,8 @@ For example, security researchers do not have the same threat model as standard 
 
 **Online streamers are primary targets** in 2023, especially the most popular ones, as they usually generate substantial revenues and have a large audience (hundred of thousands, perhaps millions of viewers/subscribers).
 
+Note that having "only" hundreds of subscribers is enough to become an attractive target.
+
 ## Disclaimer
 
 This very short guide is based on personal thoughts/researches and only provided for convenience. I'm not trying to speak with authority.
