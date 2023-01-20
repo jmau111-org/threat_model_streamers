@@ -52,7 +52,7 @@ Again, it's not exhaustive, but the following techniques seem probable:
 
 ### 7 robust protections
 
-* app-based 2FA/MFA (double/multi-factor authentication) everywhere (SMS should be avoided unless it's the only one method available)
+* app-based 2FA/MFA (double/multi-factor authentication) everywhere, including you and all your collaborators (SMS should be avoided unless it's the only one method available)
 * password managers to generate and autofill **long and random** passwords on your different accounts
 * have a robust **and tested** backup strategies (may require a budget)
 * use secured hardware (don't use cheap wireless accessories)
