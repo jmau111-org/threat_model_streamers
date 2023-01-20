@@ -54,9 +54,9 @@ Again, it's not exhaustive, but the following techniques seem probable:
 
 * app-based 2FA/MFA (double/multi-factor authentication) everywhere (SMS should be avoided unless it's the only one method available)
 * password managers to generate and autofill **long and random** passwords on your different accounts
-* advanced backup strategies (may require a budget), including offline backups if possible
-* secured hardware (don't use cheap wireless accessories)
-* adblocker (may sound paradoxical for a streamer ^^) and [uBlock origin](https://ublockorigin.com/)
+* have a robust **and tested** backup strategies (may require a budget)
+* use secured hardware (don't use cheap wireless accessories)
+* use secure browsers with adblocker (may sound paradoxical for a streamer ^^) and [uBlock origin](https://ublockorigin.com/)
 * keep your machine and applications up-to-date and use anti-malware solutions
 * [other key points](#other-key-points)
 
