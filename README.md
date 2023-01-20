@@ -72,4 +72,4 @@ Again, it's not exhaustive, but the following techniques seem probable:
 * don't mention your physical location if possible (might be very hard if you are popular)
 * take some privacy measures, as other online activities could potentially harm your reputation
 * lie in your answers to the security questions (used to reset passwords)
-* don't feed the troll: protect your mental health (e.g., regular pauses, moderation, holidays), as the social pressure can hack you "from inside"
+* **don't feed the troll**: protect your mental health (e.g., regular pauses, moderation, holidays), as the social pressure can hack you "from inside"
