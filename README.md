@@ -56,7 +56,7 @@ Again, it's not exhaustive, but the following techniques seem probable:
 
 * use app-based/Yubikeys 2FA/MFA (double/multi-factor authentication) everywhere, including you and all your collaborators (SMS should be avoided unless it's the only one method available)
 * use password managers to generate and autofill **long and random** passwords on your different accounts
-* have a robust **and tested** backup strategies (may require a budget)
+* have a robust **and tested** backup strategy (may require a budget)
 * use secured hardware (don't use cheap wireless accessories)
 * use secure browsers with adblocker (may sound paradoxical for a streamer ^^) and [uBlock origin](https://ublockorigin.com/)
 * keep your machine and applications up-to-date and use anti-malware solutions
