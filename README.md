@@ -35,7 +35,7 @@ It's only a text-based document to keep things as simple as possible (no diagram
 * attackers might disclose your personal info (PII) publicly, including your online habits but also your physical address, your friends, and family
 * attackers might attempt to DoS your connection
 * attackers might hack the account to attack your other businesses (streamers usually have multiple ways to monetize their audience)
-* attackers might be politically driven and hack your account to spread their messages (less probable but not rare)
+* attackers might be politically driven and hack you to spread their messages (less probable but not impossible)
 * attackers might target the entire platform (way less probable, but it already happened) instead of you specifically
 
 ### 7 techniques that could be used
@@ -54,7 +54,7 @@ Again, it's not exhaustive, but the following techniques seem probable:
 
 * app-based 2FA/MFA (double/multi-factor authentication) everywhere (SMS should be avoided unless it's the only one method available)
 * password managers to generate and autofill **long and random** passwords on your different accounts
-* advanced backup strategies (requires a budget), including offline backups if possible
+* advanced backup strategies (may require a budget), including offline backups if possible
 * secured hardware (don't use cheap wireless accessories)
 * adblocker (may sound paradoxical for a streamer ^^) and [uBlock origin](https://ublockorigin.com/)
 * keep your machine and applications up-to-date and use anti-malware solutions
@@ -71,4 +71,4 @@ Again, it's not exhaustive, but the following techniques seem probable:
 * secure all your uploads: remove EXIF data from documents, especially images, and don't expose family and friends if possible
 * take some privacy measures, as other online activities could potentially harm your reputation
 * lie in your answers to the security questions (used to reset passwords)
-* protect your mental health (e.g., regular pauses, moderation, holidays): harassment is another way of hacking you "from inside"
+* don't feed the troll: protect your mental health (e.g., regular pauses, moderation, holidays), as the social pressure can hack you "from inside"
