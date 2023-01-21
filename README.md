@@ -58,9 +58,11 @@ Again, it's not exhaustive, but the following techniques seem probable:
 * use password managers to generate and autofill **long and random** passwords on your different accounts
 * have a robust **and tested** backup strategy (may require a budget)
 * use secured hardware (don't use cheap wireless accessories)
-* use secure browsers with adblocker (may sound paradoxical for a streamer ^^) and [uBlock origin](https://ublockorigin.com/)
+* use secure browsers with adblockers (may sound paradoxical for a streamer ^^ but threat actors might leverage ads) and [uBlock origin](https://ublockorigin.com/)
 * keep your machine and applications up-to-date and use anti-malware solutions
-* [other key points](#other-key-points)
+* the VPN can help, particularly when you are on the move
+
+Don't miss [other key points](#other-key-points)!
 
 ### Other key points
 
