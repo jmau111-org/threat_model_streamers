@@ -44,11 +44,11 @@ It's only a text-based document to keep things as simple as possible (no diagram
 
 Again, it's not exhaustive, but the following techniques seem probable:
 
-* find and hack the email account associated with your stream
 * phishing, spear phishing (more targeted phishing)
-* use community forums and chats to send you tricked payloads
+* use of community forums and chats to send you tricked payloads
 * more "direct" social engineering, like malicious phone calls
-* technical exploit targeting the streaming platform or your personal websites, social platorms or eShop (e.g., merchandizing)
+* social engineering on your collaborators (e.g., community managers, associates) 
+* technical exploits targeting the streaming platform or your personal websites, social platorms or eShop (e.g., merchandizing)
 * if they manage to compromise your machine: ransomware (video files, other documents), RATs (Remote Access Trojans), reverse shells, 
 * denial of service on your wireless connection if your location is known/leaked
 
@@ -71,7 +71,7 @@ Again, it's not exhaustive, but the following techniques seem probable:
 * prioritize robust platforms for your "merch" (e.g., Shopify, Squarespace)
 * **secure payments** if you use alternative methods and even consider higher plans (professional/business offers) if you use Paypal
 * secure all your uploads: remove EXIF data from documents, especially images, and don't expose family and friends if possible
-* don't mention your physical location if possible (might be very hard if you are popular)
+* don't mention your physical location if possible (might be very hard to keep it private if you become popular)
 * take some privacy measures, as other online activities could potentially harm your reputation
 * lie in your answers to the security questions (used to reset passwords)
 * **don't feed the troll**: protect your mental health (e.g., regular pauses, moderation, holidays), as the social pressure can hack you "from inside"
