@@ -38,7 +38,7 @@ It's only a text-based document to keep things as simple as possible (no diagram
 * attackers might attempt to DoS your connection
 * attackers might hack the account to attack your other businesses (streamers usually have multiple ways to monetize their audience)
 * attackers might be politically driven and hack you to spread their messages (less probable but not impossible)
-* attackers might target the entire platform (way less probable, but it already happened) instead of you specifically
+* attackers might target the entire platform (way less probable, but it already happened, for example, with the [Twitch leaks on 4chan](https://arstechnica.com/information-technology/2021/10/twitch-admits-to-major-leak-exposing-source-code-creator-earnings/))
 
 ### 7 techniques that could be used
 
