@@ -66,7 +66,7 @@ Don't miss [other key points](#other-key-points)!
 
 ### Other key points
 
-* have a robust internet connection, which is not just good for your audience but also for your safety (maybe invest in a expensive plan that may include security options)
+* have a robust internet connection, which is not just good for your audience but also for your safety (maybe invest in a more expensive plan that may include security options)
 * consider using a VPN permanently
 * if possible, use a pseudo instead of your real name (but it will be hard to keep it private, especially if you become very popular)
 * use a new email address **dedicated** to your stream
