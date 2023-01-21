@@ -55,19 +55,19 @@ Again, it's not exhaustive, but the following techniques seem probable:
 ### 7 robust protections
 
 * use app-based/Yubikeys 2FA/MFA (double/multi-factor authentication) everywhere, including you and all your collaborators (SMS should be avoided unless it's the only method available)
-* use password managers to generate and autofill **long and random** passwords on your different accounts
+* use password managers to generate and autofill **long and random** passwords for your online accounts
 * have a robust **and tested** backup strategy (may require a budget)
-* use secured hardware (don't use cheap wireless accessories)
+* be extra careful with your social networks (e.g., OSINT, social engineering attacks)
 * use secure browsers with adblockers (may sound paradoxical for a streamer ^^ but threat actors might leverage ads) and [uBlock origin](https://ublockorigin.com/)
 * keep your machine and applications up-to-date and use anti-malware solutions
-* the VPN can help, particularly when you are on the move
+* always use secured hardware (e.g., don't use cheap wireless accessories)
 
 Don't miss [other key points](#other-key-points)!
 
 ### Other key points
 
-* having a robust internet connection is not just good for your audience, maybe invest in a expensive plan that may include security options
-* use a VPN permanently
+* have a robust internet connection, which is not just good for your audience but also for your safety (maybe invest in a expensive plan that may include security options)
+* consider using a VPN permanently
 * if possible, use a pseudo instead of your real name (but it will be hard to keep it private, especially if you become very popular)
 * use a new email address **dedicated** to your stream
 * prioritize robust platforms for your "merch" (e.g., Shopify, Squarespace)
