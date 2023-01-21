@@ -42,7 +42,7 @@ It's only a text-based document to keep things as simple as possible (no diagram
 
 ### 7 techniques that could be used
 
-Again, it's not exhaustive, but the following techniques seem probable:
+While it's not exhaustive, the following techniques seem probable:
 
 * phishing, spear phishing (more targeted phishing)
 * use of community forums and chats to send you tricked payloads
