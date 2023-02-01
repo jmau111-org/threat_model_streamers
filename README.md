@@ -2,6 +2,8 @@
 
 Threat model for the "new" hype and ways to protect 🧢
 
+![GitHub last commit](https://img.shields.io/github/last-commit/jmau111-org/threat_model_streamers?label=last%20update%3A)
+
 ## What's a threat model?
 
 [OWASP](https://owasp.org/www-community/Threat_Modeling) defines threat modeling as the act of "identifying, communicating, and understanding threats and mitigations within the context of protecting something of value."
