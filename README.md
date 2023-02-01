@@ -50,7 +50,7 @@ While it's not exhaustive, the following techniques seem probable:
 * social engineering on your collaborators (e.g., community managers, associates) 
 * technical exploits targeting the streaming platform or your personal websites, social platorms or eShop (e.g., merchandizing)
 * if they manage to compromise your machine: ransomware (video files, other documents), RATs (Remote Access Trojans), reverse shells, 
-* denial of service on your wireless connection if your location is known/leaked
+* denial of service on your wireless connection if your address is known/leaked
 
 ### 7 robust protections
 
