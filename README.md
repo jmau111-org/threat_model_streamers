@@ -76,9 +76,7 @@ However, it can be bypassed in multiple ways. Streamers must take regular pauses
 
 ### Intellectual property
 
-It goes in both ways. 
-
-First, streamers must be really careful with copyright laws or DMCA, as things can turn bad quickly. It's not uncommon for companies and other licence holders to claim their rights.
+Streamers must be really careful with copyright laws or DMCA, as things can turn bad quickly. It's not uncommon for companies and other licence holders to claim their rights.
 
 Streamers also have rights, so plagiarism or unauthorized "sampling" can be stopped, so do not hesitate to report them. Although, it's not illegal to criticize the content of other streamers, so it's sometimes difficult to stop shaming and other kinds of harassment.
 
