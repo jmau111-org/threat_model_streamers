@@ -52,7 +52,7 @@ While it's not exhaustive, the following techniques seem probable:
 * social engineering on your collaborators (e.g., community managers, associates) 
 * technical exploits targeting the streaming platform or your personal websites, social platorms or eShop (e.g., merchandizing)
 * if they manage to compromise your machine: ransomware (video files, other documents), RATs (Remote Access Trojans), reverse shells, 
-* denial of service on your wireless connection if your address is known/leaked
+* denial of service on your wireless connection if your address is known/leaked (the streaming platform itself usually has anti-DDoS systems, but not the streamer)
 
 ### 7 robust protections
 
@@ -64,18 +64,32 @@ While it's not exhaustive, the following techniques seem probable:
 * keep your machine and applications up-to-date and use anti-malware solutions
 * always use secured hardware (e.g., don't use cheap wireless accessories)
 
-Don't miss [other key points](#other-key-points)!
+Also you might follow [the short list](#short-list)!
 
-### Other key points
+### Underestimated threats
 
-* have a robust internet connection, which is not just good for your audience but also for your safety (maybe invest in a more expensive plan that may include security options)
-* consider using a VPN permanently
+### Mental health
+
+**Online Harassment** can literally destroy you. It may include hate speech, bullying, or inappropriate comments. Of course, platforms allow moderating or ban people who cross boundaries.
+
+However, it can be bypassed in multiple ways. Streamers must take regular pauses, perhaps vacations. The human brain is not meant for such pressure (constant stimulation, especially negativity).
+
+### Intellectual property
+
+It goes in both ways. 
+
+First, streamers must be really careful with copyright laws or DMCA, as things can turn bad quickly. It's not uncommon for companies and other licence holders to claim their rights.
+
+Streamers also have rights, so plagiarism or unauthorized "sampling" can be stopped, so do not hesitate to report them. Although, it's not illegal to criticize the content of other streamers, so it's sometimes difficult to stop shaming and other kinds of harassment.
+
+### Short list
+
 * if possible, use a pseudo instead of your real name (but it will be hard to keep it private, especially if you become very popular)
 * use a new email address **dedicated** to your stream
 * prioritize robust platforms for your "merch" (e.g., Shopify, Squarespace)
 * **secure payments** if you use alternative methods and even consider higher plans (professional/business offers) if you use Paypal
 * secure all your uploads: remove EXIF data from documents, especially images, and don't expose family and friends if possible
 * don't mention your physical location if possible (might be very hard to keep it private if you become popular)
+* have a robust internet connection, which is not just good for your audience but also for your safety (maybe invest in a more expensive plan that may include security options)
+* consider using a VPN permanently
 * take some privacy measures, as other online activities could potentially harm your reputation
-* lie in your answers to the security questions (used to reset passwords)
-* **don't feed the troll**: protect your mental health (e.g., regular pauses, moderation, holidays), as the social pressure can hack you "from inside"
