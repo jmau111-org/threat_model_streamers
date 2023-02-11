@@ -24,7 +24,7 @@ Ce guide simplifié a pour but de vulgariser la notion et ne prétend pas parler
 
 Une personne qui diffuse en temps réel (le fameux streaming) ses parties de jeux vidéos. Les plateformes de référence sont Twitch et YouTube.
 
-Beaucoup d'appelés, très peu d'élus. Le secteur est ultra-concurrentiel. Une élite de streameurs tire son épingle du jeu néanmoins et peut en vivre correctement voire confortablement dans les meilleurs cas. En général, les grosses têtes d'affiches sont déjà connues pour autre chose (YouTubeurs, artistes, politiques, etc) mais certains arrivent à "percer" uniquement par leurs compétences de jeu.
+Beaucoup d'appelés, très peu d'élus. Le secteur est ultra-concurrentiel. Une élite de streameurs tire son épingle du jeu néanmoins et peut en vivre correctement (voire confortablement dans les meilleurs cas). En général, les grosses têtes d'affiches sont déjà connues pour autre chose (YouTubeurs, artistes, politiques, etc) mais certains arrivent à "percer" uniquement par leurs compétences de jeu.
 
 [Inspiration: computerhope](https://www.computerhope.com/jargon/s/streamer.htm)
 
