@@ -74,7 +74,7 @@ Prendre régulièrement des pauses et des vacances peut sembler un luxe pour cer
 
 Tout ce qui est droit de la propriété intellectuelle et autres DMCA est à connaître sur le bout des doigts. Les contenus se font régulièrement signaler/réclamer par les ayants droit. Certaines boîtes ont même un service dédié pour ça.
 
-Les streameurs ont aussi des droits sur leurs propres contenus. Le plagiat et les techniques qui consistent à "sampler" abusivement les contenus des créateurs, pour les dénigrer ou générer des revenus publicitaires sur leurs dos, peuvent être attaquées en justice ou au moins auprès de la plateforme de diffusion.
+Les streameurs ont aussi des droits sur leurs propres contenus. Le plagiat et les techniques qui consistent à "sampler" abusivement les contenus des créateurs, pour les dénigrer ou générer des revenus publicitaires sur leurs dos, peuvent être attaqués en justice ou au moins auprès de la plateforme de diffusion.
 
 Attention car le droit à la critique existe aussi, et il est légal de reprendre un contenu streamé pour le critiquer ou le présenter, ce qui laisse une faille à certains pour y glisser des formes de harcèlement plus subtiles mais tout aussi dangereuses, voire plus.
 
