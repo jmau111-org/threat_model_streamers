@@ -4,7 +4,7 @@ Menaces sur les streameurs et moyens efficaces de les mitiger 🧢
 
 [Lire la version anglaise](https://github.com/jmau111-org/threat_model_streamers)
 
-## C'est quoi un modèle de menace
+## C'est quoi un modèle de menace ?
 
 Grosso modo, il s'agit d'adapter les mesure de sécurité à sa situation pour protéger quelque chose de valeur, ce qui n'est pas toujours lié à des problématiques d'argent mais c'est tout de même souvent le cas.
 
