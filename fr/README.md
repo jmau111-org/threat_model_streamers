@@ -52,11 +52,11 @@ Parmi les plus crédibles:
 
 ### 7 protections qui marchent vraiment
 
-* 2FA/MFA (authentification double/multi-facteurs ) partout et pour tous les collaborateurs: via une app ou, encore mieux, une clé de sécurité. Même si le SMS est le moins sécurisé, c'est toujours 10x mieux que sans!
-* un gestionnaire de mots de passe pour générer et auto-compléter des mots de passe **longs et aléatoires** sur les différents comptes. Eviter le cas du mot de passe réutilisé qui ouvre toutes les portes.
+* 2FA/MFA (authentification double/multi-facteurs) partout et pour tous les collaborateurs: via une app ou, encore mieux, une clé de sécurité. Même si le SMS est le moins sécurisé, c'est toujours 10 fois mieux que sans!
+* un gestionnaire de mots de passe pour générer et auto-compléter des mots de passe **longs et aléatoires** sur les différents comptes. Eviter le cas du mot de passe réutilisé qui ouvre toutes les portes!
 * stratégie de sauvegarde des données efficace **et surtout testée** (peut nécessiter un budget)
-* vigilance sur les réseaux pour éviter l'OSINT de base ou avancé, ou d'autres technique d'ingénierie sociale
-* navigateur sécurisé avec bloqueur de pubs et [uBlock origin](https://ublockorigin.com/) activé
+* vigilance sur les réseaux pour éviter l'OSINT de base ou plus avancé, ou d'autres techniques d'ingénierie sociale
+* navigateur sécurisé avec bloqueur de pubs et l'extension [uBlock origin](https://ublockorigin.com/) activée
 * système d'exploitation **et** applications/logiciels à jour
 * appareils sécurisés: ne pas connecter n'importe quel object connecté car certains n'ont même pas de cryptage
 
