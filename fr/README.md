@@ -82,7 +82,7 @@ Attention car le droit à la critique existe aussi, et il est légal de reprendr
 
 * ne pas utiliser son vrai nom mais un pseudo (mais ça deviendra compliqué à maintenir pour les personnes les plus connues)
 * utiliser un email **dédié** au compte de stream
-* prioriser les plateformes les plus robustes pour le "merch" (ex: Shopify, Squarespace) même si leurs commissions peuvent être salées
+* prioriser les plateformes les plus robustes pour le "merch" (ex: Shopify, Squarespace) même si leurs commissions/frais d'abonnement peuvent être salés
 * **paiements sécurisés** voire plans professionels/business pour les plateforme type Paypal
 * sécurité des publications: supprimer les data EXIF des documents, en particulier les photos car toutes les plateformes ne le font pas automatiquement, et éviter d'exposer les proches ou les rayer au marqueur noir (éviter les floutages hasardeux qui sont parfois réversibles)
 * ne pas divulguer une adresse physique ou sa ville (même si compliqué pour les streameurs les plus en vue)
