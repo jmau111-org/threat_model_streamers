@@ -76,7 +76,7 @@ Tout ce qui est droit de la propriété intellectuelle et autres DMCA est à con
 
 Les streameurs ont aussi des droits sur leurs propres contenus. Le plagiat et les techniques qui consistent à "sampler" abusivement les contenus des créateurs, pour les dénigrer ou générer des revenus publicitaires sur leurs dos, peuvent être attaquées en justice ou au moins auprès de la plateforme de diffusion.
 
-Attention car le droit à la critique existe aussi, et il est légal de reprendre un contenu streamé pour le critiquer ou le présenter, ce qui laisse une faille à certains pour y glisser des formes de harcèlement plus subtiles mais tout aussi dangereux, voire plus.
+Attention car le droit à la critique existe aussi, et il est légal de reprendre un contenu streamé pour le critiquer ou le présenter, ce qui laisse une faille à certains pour y glisser des formes de harcèlement plus subtiles mais tout aussi dangereuses, voire plus.
 
 ### Short list
 
