@@ -68,7 +68,7 @@ While it's not exhaustive, the following techniques seem probable:
 
 Also you might follow [the short list](#short-list)!
 
-### Underestimated threats
+## Underestimated threats
 
 ### Mental health
 
@@ -82,7 +82,7 @@ Streamers must be really careful with copyright laws or DMCA, as things can turn
 
 Streamers also have rights, so plagiarism or unauthorized "sampling" can be stopped. Do not hesitate to report it. Although, it's not illegal to criticize the content of other streamers, so it's sometimes difficult to stop shaming and other kinds of harassment.
 
-### Short list
+## Short list
 
 * if possible, use a pseudo instead of your real name (but it will be hard to keep it private, especially if you become very popular)
 * use a new email address **dedicated** to your stream
