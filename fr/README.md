@@ -78,7 +78,7 @@ Les streameurs ont aussi des droits sur leurs propres contenus. Le plagiat et le
 
 Attention car le droit à la critique existe aussi, et il est légal de reprendre un contenu streamé pour le critiquer ou le présenter, ce qui laisse une faille à certains pour y glisser des formes de harcèlement plus subtiles mais tout aussi dangereuses, voire plus.
 
-### Short list
+## Short list
 
 * ne pas utiliser son vrai nom mais un pseudo (mais ça deviendra compliqué à maintenir pour les personnes les plus connues)
 * utiliser un email **dédié** au compte de stream
