@@ -66,7 +66,7 @@ Ne pas oublier [la short list](#short-list)!
 
 ### Santé mentale
 
-**Harcèlement en ligne**: propos haineux, moqueries systématiques, mais également commentaires inappropriés. Les plateformes proposent des systèmes de modérations et même de banissement pour les petits malins qui veulent tester les limites mais cela peut se contourner assez facilement, notamment via d'autres réseaux sociaux.
+**Harcèlement en ligne**: propos haineux, moqueries systématiques, mais également commentaires inappropriés. Certes, les plateformes proposent des systèmes de modération et même de banissement pour les petits malins qui voudraient tester les limites, mais cela peut se contourner assez facilement, notamment via d'autres réseaux sociaux.
 
 Prendre régulièrement des pauses et des vacances peut sembler un luxe pour certaines victimes mais le cerveau humain n'est juste pas conçu pour endurer autant de pression (constante stimulation, _a fortiori_ si c'est du "concentré de négativité").
 
