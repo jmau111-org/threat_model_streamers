@@ -4,7 +4,7 @@ Threat model for the "new" hype and ways to protect 🧢
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/jmau111-org/threat_model_streamers?label=last%20update%3A)
 
-[Lire la version française](fr)
+[Lire la version française 🇫🇷](fr)
 
 ## What's a threat model?
 
