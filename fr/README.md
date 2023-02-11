@@ -46,7 +46,7 @@ Parmi les plus crédibles:
 * envois de code malicieux via les forums et autres chats (cela peut être hors plateforme, comme un site auto-hébergé)
 * appels téléphoniques directs si le numéro est leak ou repéré
 * attaque par ingénierie sociale sur un collaborateur (ex: community managers, associés) 
-* attaque les applications servant au merchandizing (encore plus probable si le site est géré/développé par l'équipe de la victime ou juste elle, et non une plateforme reconnue et sécurisée)
+* attaque sur les applications servant au merchandizing (encore plus probable si le site est géré/développé par l'équipe de la victime ou juste elle, et non une plateforme reconnue et sécurisée)
 * si l'accès est établi sur les machines contenant des documents importants comme la production vidéo, on peut s'attendre à du rançongiciel, des RATs (Remote Access Trojans), ou des reverse shells
 * déni de service sur la connection sans fil de la victime si son adresse est repérée et que son installation est vulnérable (les plateformes ont en général des systèmes anti-DDoS mais c'est plus rare à domicile)
 
