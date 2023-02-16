@@ -6,7 +6,7 @@ Menaces sur les streameurs et moyens efficaces de les mitiger 🧢
 
 ## C'est quoi un modèle de menace ?
 
-Grosso modo, il s'agit d'adapter les mesure de sécurité à sa situation pour protéger quelque chose de valeur, ce qui n'est pas toujours lié à des problématiques d'argent mais c'est tout de même souvent le cas.
+Grosso modo, il s'agit d'adapter les mesures de sécurité à sa situation pour protéger quelque chose de valeur, ce qui n'est pas toujours lié à des problématiques d'argent mais c'est tout de même souvent le cas.
 
 Par example, un utilisateur lambda n'aura pas le même modèle de menace qu'un hacktiviste, ou même un chercheur en sécurité car ses activités peuvent être considérées comme bien moin sensibles.
 
