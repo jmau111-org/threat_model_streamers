@@ -8,7 +8,7 @@ Menaces sur les streameurs et moyens efficaces de les mitiger 🧢
 
 Grosso modo, il s'agit d'adapter les mesures de sécurité à sa situation pour protéger quelque chose de valeur, ce qui n'est pas toujours lié à des problématiques d'argent mais c'est tout de même souvent le cas.
 
-Par exemple, un utilisateur lambda n'aura pas le même modèle de menace qu'un hacktiviste, ou même un chercheur en sécurité car ses activités peuvent être considérées comme bien moin sensibles.
+Par exemple, un utilisateur lambda n'aura pas le même modèle de menace qu'un hacktiviste, ou même un chercheur en sécurité.
 
 **Les streameurs sont particulièrement dans le colimateur** en 2023, et c'est encore plus vrai pour les têtes de gondole qui touche un large public (milliers voire centaines de milliers de viewers/abonnés).
 
