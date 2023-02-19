@@ -54,7 +54,7 @@ While it's not exhaustive, the following techniques seem probable:
 * social engineering on your collaborators (e.g., community managers, associates) 
 * technical exploits targeting the streaming platform or your personal websites, social platorms or eShop (e.g., merchandizing)
 * if they manage to compromise your machine: ransomware (video files, other documents), RATs (Remote Access Trojans), reverse shells, 
-* denial of service on your wireless connection if your address is known/leaked (the streaming platform itself usually has anti-DDoS systems, but not the streamer)
+* denial of service on your wireless connection if your address is known/leaked (the streaming platform itself usually has anti-DDoS systems, but the streamer might be "DoSed" directly at home)
 
 ### 7 robust protections
 
