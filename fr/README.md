@@ -48,7 +48,7 @@ Parmi les plus crédibles:
 * attaque par ingénierie sociale sur un collaborateur (ex: community managers, associés) 
 * attaque sur les applications servant au merchandizing (encore plus probable si le site est géré/développé par l'équipe de la victime ou juste elle, et non une plateforme reconnue et sécurisée)
 * si l'accès est établi sur les machines contenant des documents importants comme la production vidéo, on peut s'attendre à du rançongiciel, des RATs (Remote Access Trojans), ou des reverse shells
-* déni de service sur la connection sans fil de la victime si son adresse est repérée et que son installation est vulnérable (les plateformes ont en général des systèmes anti-DDoS mais c'est plus rare à domicile)
+* déni de service sur la connection sans fil de la victime si son adresse est repérée et que son installation est vulnérable (les plateformes ont en général des systèmes anti-DDoS mais c'est plus rare d'avoir des protections anti-DoS à domicile)
 
 ### 7 protections qui marchent vraiment
 
