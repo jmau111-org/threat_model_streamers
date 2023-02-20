@@ -28,7 +28,7 @@ Beaucoup d'appelés, très peu d'élus. Le secteur est ultra-concurrentiel. Une 
 
 [Inspiration: computerhope](https://www.computerhope.com/jargon/s/streamer.htm)
 
-### 7 scénarios catastrophe
+### Scénarios catastrophe
 
 * les attaquants hackent le compte et suppriment des contenus, ce qui peut faire perdre beacoup d'argent à la victime
 * les pirates "leakent" (révèlent publiquement) des données personnelles concernant la victime (PII)
@@ -38,7 +38,7 @@ Beaucoup d'appelés, très peu d'élus. Le secteur est ultra-concurrentiel. Une 
 * la cible est attaquée par un groupe de pirates dans un but politique pour diffuser un message ou un manifeste (assez improbable mais pas impossible)
 * l'attaque vise toute la plateforme et non une personne en particulier (très rare, mais souvenez-vous des [Twitch leaks sur 4chan](https://arstechnica.com/information-technology/2021/10/twitch-admits-to-major-leak-exposing-source-code-creator-earnings/))
 
-### 7 techniques d'attaque connues
+### Techniques d'attaque connues
 
 Parmi les plus crédibles:
 
@@ -50,7 +50,7 @@ Parmi les plus crédibles:
 * si l'accès est établi sur les machines contenant des documents importants comme la production vidéo, on peut s'attendre à du rançongiciel, des RATs (Remote Access Trojans), ou des reverse shells
 * déni de service sur la connection sans fil de la victime si son adresse est repérée et que son installation est vulnérable (les plateformes ont en général des systèmes anti-DDoS mais c'est plus rare d'avoir des protections anti-DoS à domicile)
 
-### 7 protections qui marchent vraiment
+### Protections qui marchent vraiment
 
 * 2FA/MFA (authentification double/multi-facteurs) partout et pour tous les collaborateurs: via une app ou, encore mieux, une clé de sécurité. Même si le SMS est le moins sécurisé, c'est toujours 10 fois mieux que sans!
 * un gestionnaire de mots de passe pour générer et auto-compléter des mots de passe **longs et aléatoires** sur les différents comptes. Eviter le cas du mot de passe réutilisé qui ouvre toutes les portes!
