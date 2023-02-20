@@ -34,7 +34,7 @@ It's only a text-based document to keep things as simple as possible (no diagram
 
 [Source: computerhope](https://www.computerhope.com/jargon/s/streamer.htm)
 
-### 7 things that can go wrong
+### Things that can go wrong
 
 * attackers might hack the account to delete published content, which could cut your revenues
 * attackers might hack the account to spam or scam viewers, or spread malware
@@ -44,7 +44,7 @@ It's only a text-based document to keep things as simple as possible (no diagram
 * attackers might be politically driven and hack you to spread their messages (less probable but not impossible)
 * attackers might target the entire platform (way less probable, but it already happened, for example, with the [Twitch leaks on 4chan](https://arstechnica.com/information-technology/2021/10/twitch-admits-to-major-leak-exposing-source-code-creator-earnings/))
 
-### 7 techniques that could be used
+### Techniques that could be used
 
 While it's not exhaustive, the following techniques seem probable:
 
@@ -56,7 +56,7 @@ While it's not exhaustive, the following techniques seem probable:
 * if they manage to compromise your machine: ransomware (video files, other documents), RATs (Remote Access Trojans), reverse shells, 
 * denial of service on your wireless connection if your address is known/leaked (the streaming platform itself usually has anti-DDoS systems, but the streamer might be "DoSed" directly at home)
 
-### 7 robust protections
+### Robust protections
 
 * use app-based/Yubikeys 2FA/MFA (double/multi-factor authentication) everywhere, including you and all your collaborators (SMS should be avoided unless it's the only method available)
 * use password managers to generate and autofill **long and random** passwords for your online accounts
